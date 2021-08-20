@@ -1,0 +1,38 @@
+#input{
+    margin-top:20px;
+    text-align: center;
+}
+#btn{
+    margin-top:15px;
+}
+.container{
+    width:20%;
+    margin:0 auto;
+    background-color: #e9ecef;
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin-top: 3%;
+    border: 25px solid #ced4da;
+
+}
+h1{
+    text-align: center;
+    color: #212529;
+    font-family: 'Lobster', cursive;
+}
+.inputdiv{
+    margin-left: 15%;
+}
+body{
+    background-color:#6c757d;
+}
+.para{
+    color: #6c757d;
+}
+#result{
+    font-family: 'Gloria Hallelujah', cursive;
+}
+p{
+    font-family: 'Annie Use Your Telescope', cursive;
+    font-weight: bold;
+}
